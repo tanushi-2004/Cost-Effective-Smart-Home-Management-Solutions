@@ -72,6 +72,3 @@ This project provides a smart home management solution that enables users to con
 
 Contributions are welcome! Please fork the repository and submit a pull request.
 
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
